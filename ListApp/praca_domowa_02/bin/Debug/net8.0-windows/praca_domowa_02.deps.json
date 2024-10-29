@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "praca_domowa_02/1.0.0": {
+        "runtime": {
+          "praca_domowa_02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "praca_domowa_02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
