@@ -1,2 +1,81 @@
 https://dev-hobby.pl/algorytmy/algorytm-kruskala/
 https://eduinf.waw.pl/inf/alg/001_search/0141.php
+
+
+GRAF1
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace graf
+{
+    internal class Graf1
+    {
+        List<NodeG1> nodes;
+        List<Edge> edges;
+
+        void Add(Edge k)
+        {
+
+        }
+        int ileNowychWezlow(Edge k)
+        {
+            int count = 0;
+            if()
+            {
+
+            }
+
+        }
+
+        void Join(Graf1 g1)
+        {
+
+            for (int i=0; i<g1.edges.Count; i++)
+            {
+                this.Add(g1.edges[i]);
+            }
+        }
+        
+    }
+}
+
+
+EDGE
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace graf
+{
+    internal class Edge
+    {
+        NodeG1 start;
+        NodeG1 end;
+        int weight;
+    }
+}
+
+// edges.OrderBy() <-- sortowanie z using System.linq;
+// zapis var list = edges.OrderBy(k=>k.weight).ToList();
+
+
+
+NODEG1
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace graf
+{
+    internal class NodeG1
+    {
+        int data;
+    }
+}
