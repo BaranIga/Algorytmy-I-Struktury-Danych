@@ -1,0 +1,7 @@
+D:\174724\data-structures-algorithms\algorithms\obj\Debug\net6.0-windows\dsa.csproj.AssemblyReference.cache
+D:\174724\data-structures-algorithms\algorithms\obj\Debug\net6.0-windows\algorithms.MainForm.resources
+D:\174724\data-structures-algorithms\algorithms\obj\Debug\net6.0-windows\dsa.csproj.GenerateResource.cache
+D:\174724\data-structures-algorithms\algorithms\obj\Debug\net6.0-windows\dsa.GeneratedMSBuildEditorConfig.editorconfig
+D:\174724\data-structures-algorithms\algorithms\obj\Debug\net6.0-windows\dsa.AssemblyInfoInputs.cache
+D:\174724\data-structures-algorithms\algorithms\obj\Debug\net6.0-windows\dsa.AssemblyInfo.cs
+D:\174724\data-structures-algorithms\algorithms\obj\Debug\net6.0-windows\dsa.csproj.CoreCompileInputs.cache
